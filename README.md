@@ -1,4 +1,4 @@
-###MyVIMRC
+#MyVIMRC
 
 This is my vimrc. There are many like it, but this one is mine.
 
@@ -15,6 +15,8 @@ We are the masters of our codebase. We are the saviors of my life.
 So be it, until there are no bugs, but peace. Amen.
 
 
-#Hot Keys
+###Hot Keys
+
+____
 
 Toggle NerdTree: CMND + n
