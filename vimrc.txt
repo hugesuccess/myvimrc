@@ -17,3 +17,5 @@ map <C-n> :NERDTreeToggle<CR>
 let g:NERDTreeWinPos = "left"
 let NERDTreeMouseMode=2
 
+"Normal paste
+ set paste
