@@ -13,3 +13,8 @@ I will before God, I swear this creed. My vimrc and I are the defenders of my so
 We are the masters of our codebase. We are the saviors of my life.
 
 So be it, until there are no bugs, but peace. Amen.
+
+
+#Hot Keys
+
+Toggle NerdTree: CMND + n
